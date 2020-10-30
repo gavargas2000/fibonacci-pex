@@ -8,7 +8,9 @@ go get -u github.com/gorilla/mux
 Valid endpoints:
 
 http://localhost:8844/current
+
 http://localhost:8844/next
+
 http://localhost:8844/previous
 
 To start the server run in console:
